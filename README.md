@@ -23,6 +23,9 @@ see if that works on your piano
 ---
 Blame me [Stuart John Marsh](https://gostugo.com)
 
+#### Resources
+[expo](https://expo.io/)
+
 #### To Do 
 ---
 * [ ] Check out Ignite
