@@ -6,8 +6,9 @@
  * @flow strict-local
  */
 
-import React from 'react';
+import React from 'react'; //Default export from react. Only one per module
 import {
+  // Multi exports per module but you need to use their names.
   SafeAreaView,
   StyleSheet,
   ScrollView,
@@ -25,6 +26,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const App: () => React$Node = () => {
+  // Returned JSX much like React.
   return (
     <>
       <StatusBar barStyle="dark-content" />
